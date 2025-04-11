@@ -2,13 +2,13 @@
 
 ### 새로 읽고 있는 책
 
-1. 타입스크립트 프로그래밍
+1. [타입스크립트 프로그래밍](https://github.com/salmonco/book-study/tree/main/ts-programming)
 2. 이펙티브 타입스크립트
 
 ### 한 번 이상 읽은 책
 
 1. 모던 자바스크립트 Deep Dive
-2. 코어 자바스크립트
+2. [코어 자바스크립트](https://github.com/salmonco/book-study/tree/main/core-js)
 3. 함께 자라기
 
 ### 읽고 싶은 책
