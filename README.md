@@ -7,7 +7,7 @@
 
 ### 한 번 이상 읽은 책
 
-1. 모던 자바스크립트 Deep Dive
+1. [모던 자바스크립트 Deep Dive](https://github.com/salmonco/book-study/tree/main/modern-js-deepdive)
 2. [코어 자바스크립트](https://github.com/salmonco/book-study/tree/main/core-js)
 3. 함께 자라기
 
