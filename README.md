@@ -2,15 +2,15 @@
 
 ### 새로 읽고 있는 책
 
-1. [타입스크립트 프로그래밍](https://github.com/salmonco/book-study/tree/main/ts-programming)
+1. [타입스크립트 프로그래밍](https://github.com/salmonco/book-study/tree/main/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 2. 이펙티브 타입스크립트
 
 ### 한 번 이상 읽은 책
 
-1. [모던 자바스크립트 Deep Dive](https://github.com/salmonco/book-study/tree/main/modern-js-deepdive)
-2. [코어 자바스크립트](https://github.com/salmonco/book-study/tree/main/core-js)
+1. [모던 자바스크립트 Deep Dive](https://github.com/salmonco/book-study/tree/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20Deep%20Dive)
+2. [코어 자바스크립트](https://github.com/salmonco/book-study/tree/main/%EC%BD%94%EC%96%B4%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
 3. 함께 자라기
-4. 실리콘밸리의 팀장들
+4. [실리콘밸리의 팀장들](https://github.com/salmonco/book-study/tree/main/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%9D%98%20%ED%8C%80%EC%9E%A5%EB%93%A4)
 5. 피그마 클래스
 
 ### 읽고 싶은 책
@@ -42,10 +42,10 @@
 
 ### 한 번 이상 읽은 책
 
-1. 기획자의 습관
-2. 인스파이어드
-3. 린 스타트업 바이블
-4. 에디토리얼 씽킹
+1. [기획자의 습관](https://github.com/salmonco/book-study/tree/main/%EA%B8%B0%ED%9A%8D%EC%9E%90%EC%9D%98%20%EC%8A%B5%EA%B4%80)
+2. [인스파이어드](https://github.com/salmonco/book-study/tree/main/%EC%9D%B8%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%93%9C)
+3. [린 스타트업 바이블](https://github.com/salmonco/book-study/tree/main/%EB%A6%B0%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%20%EB%B0%94%EC%9D%B4%EB%B8%94)
+4. [에디토리얼 씽킹](https://github.com/salmonco/book-study/tree/main/%EC%97%90%EB%94%94%ED%86%A0%EB%A6%AC%EC%96%BC%20%EC%94%BD%ED%82%B9)
 
 ### 읽고 싶은 책
 
