@@ -11,7 +11,7 @@
 2. [코어 자바스크립트](https://github.com/salmonco/book-study/tree/main/%EC%BD%94%EC%96%B4%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
 3. 함께 자라기
 4. [실리콘밸리의 팀장들](https://github.com/salmonco/book-study/tree/main/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%9D%98%20%ED%8C%80%EC%9E%A5%EB%93%A4)
-5. 피그마 클래스
+5. [피그마 클래스](http://github.com/salmonco/book-study/tree/main/%ED%94%BC%EA%B7%B8%EB%A7%88%20%ED%81%B4%EB%9E%98%EC%8A%A4)
 
 ### 읽고 싶은 책
 
