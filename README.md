@@ -46,6 +46,7 @@
 2. [인스파이어드](https://github.com/salmonco/book-study/tree/main/%EC%9D%B8%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%93%9C)
 3. [린 스타트업 바이블](https://github.com/salmonco/book-study/tree/main/%EB%A6%B0%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%20%EB%B0%94%EC%9D%B4%EB%B8%94)
 4. [에디토리얼 씽킹](https://github.com/salmonco/book-study/tree/main/%EC%97%90%EB%94%94%ED%86%A0%EB%A6%AC%EC%96%BC%20%EC%94%BD%ED%82%B9)
+5. [Human Computer Interaction 개론](https://github.com/salmonco/book-study/tree/main/Human%20Computer%20Interaction%20%EA%B0%9C%EB%A1%A0)
 
 ### 읽고 싶은 책
 
