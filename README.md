@@ -2,8 +2,8 @@
 
 ### 새로 읽고 있는 책
 
-1. [타입스크립트 프로그래밍](https://github.com/salmonco/book-study/tree/main/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
-2. 이펙티브 타입스크립트
+1. 이펙티브 타입스크립트
+2. 우아한 타입스크립트 with 리액트
 
 ### 한 번 이상 읽은 책
 
@@ -12,6 +12,7 @@
 3. 함께 자라기
 4. [실리콘밸리의 팀장들](https://github.com/salmonco/book-study/tree/main/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%9D%98%20%ED%8C%80%EC%9E%A5%EB%93%A4)
 5. [피그마 클래스](http://github.com/salmonco/book-study/tree/main/%ED%94%BC%EA%B7%B8%EB%A7%88%20%ED%81%B4%EB%9E%98%EC%8A%A4)
+6. [타입스크립트 프로그래밍](https://github.com/salmonco/book-study/tree/main/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 
 ### 읽고 싶은 책
 
@@ -25,12 +26,11 @@
 8. 프론트엔드 성능 최적화 가이드
 9. 객체지향의 사실과 오해
 10. 코드 작성 가이드
-11. 우아한 타입스크립트 with 리액트
-12. 소프트웨어 장인
-13. 구글 엔지니어는 이렇게 일한다
-14. 쏙쏙 들어오는 함수형 코딩
-15. 좋은 코드, 나쁜 코드
-16. 한 권으로 읽는 컴퓨터 구조와 프로그래밍
+11. 소프트웨어 장인
+12. 구글 엔지니어는 이렇게 일한다
+13. 쏙쏙 들어오는 함수형 코딩
+14. 좋은 코드, 나쁜 코드
+15. 한 권으로 읽는 컴퓨터 구조와 프로그래밍
 
 ---
 
@@ -39,6 +39,8 @@
 ### 새로 읽고 있는 책
 
 1. 린 스타트업
+2. 마케팅 불변의 법칙
+3. 진화된 마케팅 그로스 해킹
 
 ### 한 번 이상 읽은 책
 
@@ -52,4 +54,3 @@
 
 1. Systems Analysis and Design
 2. 프로덕트 오너
-3. 그로스 해킹
