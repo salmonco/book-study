@@ -31,6 +31,7 @@
 13. 쏙쏙 들어오는 함수형 코딩
 14. 좋은 코드, 나쁜 코드
 15. 한 권으로 읽는 컴퓨터 구조와 프로그래밍
+16. Operating Systems: Three Easy Pieces
 
 ---
 
