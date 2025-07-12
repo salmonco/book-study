@@ -40,7 +40,7 @@
 ### 새로 읽고 있는 책
 
 1. 린 스타트업
-2. 마케팅 불변의 법칙
+2. [마케팅 불변의 법칙](https://github.com/salmonco/book-study/tree/main/%EB%A7%88%EC%BC%80%ED%8C%85%20%EB%B6%88%EB%B3%80%EC%9D%98%20%EB%B2%95%EC%B9%99)
 3. 진화된 마케팅 그로스 해킹
 
 ### 한 번 이상 읽은 책
