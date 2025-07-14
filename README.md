@@ -2,7 +2,7 @@
 
 ### 새로 읽고 있는 책
 
-1. 이펙티브 타입스크립트
+1. [이펙티브 타입스크립트](https://github.com/salmonco/book-study/tree/main/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
 2. 우아한 타입스크립트 with 리액트
 3. HTTP 완벽 가이드
 
