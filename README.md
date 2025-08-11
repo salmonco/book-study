@@ -4,7 +4,7 @@
 
 1. [이펙티브 타입스크립트](https://github.com/salmonco/book-study/tree/main/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
 2. 우아한 타입스크립트 with 리액트
-3. HTTP 완벽 가이드
+3. [HTTP 완벽 가이드](https://github.com/salmonco/book-study/tree/main/HTTP%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C)
 
 ### 한 번 이상 읽은 책
 
@@ -39,8 +39,7 @@
 
 ### 새로 읽고 있는 책
 
-1. [마케팅 불변의 법칙](https://github.com/salmonco/book-study/tree/main/%EB%A7%88%EC%BC%80%ED%8C%85%20%EB%B6%88%EB%B3%80%EC%9D%98%20%EB%B2%95%EC%B9%99)
-2. 진화된 마케팅 그로스 해킹
+1. [진화된 마케팅 그로스 해킹](https://github.com/salmonco/book-study/tree/main/%EC%A7%84%ED%99%94%EB%90%9C%20%EB%A7%88%EC%BC%80%ED%8C%85%20%EA%B7%B8%EB%A1%9C%EC%8A%A4%20%ED%95%B4%ED%82%B9)
 
 ### 한 번 이상 읽은 책
 
@@ -50,6 +49,7 @@
 4. [에디토리얼 씽킹](https://github.com/salmonco/book-study/tree/main/%EC%97%90%EB%94%94%ED%86%A0%EB%A6%AC%EC%96%BC%20%EC%94%BD%ED%82%B9)
 5. [Human Computer Interaction 개론](https://github.com/salmonco/book-study/tree/main/Human%20Computer%20Interaction%20%EA%B0%9C%EB%A1%A0)
 6. [린 스타트업](https://github.com/salmonco/book-study/tree/main/%EB%A6%B0%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85)
+7. [마케팅 불변의 법칙](https://github.com/salmonco/book-study/tree/main/%EB%A7%88%EC%BC%80%ED%8C%85%20%EB%B6%88%EB%B3%80%EC%9D%98%20%EB%B2%95%EC%B9%99)
 
 ### 읽고 싶은 책
 
