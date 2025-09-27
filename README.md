@@ -3,9 +3,8 @@
 ### 새로 읽고 있는 책
 
 1. [이펙티브 타입스크립트](https://github.com/salmonco/book-study/tree/main/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
-2. [우아한 타입스크립트 with 리액트](https://github.com/salmonco/book-study/tree/main/%EC%9A%B0%EC%95%84%ED%95%9C%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20with%20%EB%A6%AC%EC%95%A1%ED%8A%B8)
-3. [HTTP 완벽 가이드](https://github.com/salmonco/book-study/tree/main/HTTP%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C)
-4. [Operating Systems: Three Easy Pieces](https://github.com/salmonco/book-study/tree/main/Operating%20Systems%3A%20Three%20Easy%20Pieces)
+2. [HTTP 완벽 가이드](https://github.com/salmonco/book-study/tree/main/HTTP%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C)
+3. [Operating Systems: Three Easy Pieces](https://github.com/salmonco/book-study/tree/main/Operating%20Systems%3A%20Three%20Easy%20Pieces)
 
 ### 한 번 이상 읽은 책
 
@@ -15,6 +14,7 @@
 4. [실리콘밸리의 팀장들](https://github.com/salmonco/book-study/tree/main/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%9D%98%20%ED%8C%80%EC%9E%A5%EB%93%A4)
 5. [피그마 클래스](http://github.com/salmonco/book-study/tree/main/%ED%94%BC%EA%B7%B8%EB%A7%88%20%ED%81%B4%EB%9E%98%EC%8A%A4)
 6. [타입스크립트 프로그래밍](https://github.com/salmonco/book-study/tree/main/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+7. [우아한 타입스크립트 with 리액트](https://github.com/salmonco/book-study/tree/main/%EC%9A%B0%EC%95%84%ED%95%9C%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20with%20%EB%A6%AC%EC%95%A1%ED%8A%B8)
 
 ### 읽고 싶은 책
 
