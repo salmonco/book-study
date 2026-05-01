@@ -5,6 +5,11 @@
 1. [이펙티브 타입스크립트](https://github.com/salmonco/book-study/tree/main/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
 2. [HTTP 완벽 가이드](https://github.com/salmonco/book-study/tree/main/HTTP%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C)
 3. [Operating Systems: Three Easy Pieces](https://github.com/salmonco/book-study/tree/main/Operating%20Systems%3A%20Three%20Easy%20Pieces)
+4. 성공과 실패를 결정하는 1%의 네트워크 원리
+5. 클린 아키텍처: 소프트웨어 구조와 설계의 원칙
+6. 머신러닝 시스템 엔지니어링
+7. 소프트웨어 장인
+8. 모던 리액트 Deep Dive
 
 ### 한 번 이상 읽은 책
 
@@ -56,3 +61,7 @@
 ### 읽고 싶은 책
 
 1. Systems Analysis and Design
+2. 아이디어 불패의 법칙
+3. 제로 투 원
+4. Good to Great
+5. 매니지먼트
