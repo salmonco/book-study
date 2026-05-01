@@ -44,15 +44,15 @@
 1. [기획자의 습관](https://github.com/salmonco/book-study/tree/main/%EA%B8%B0%ED%9A%8D%EC%9E%90%EC%9D%98%20%EC%8A%B5%EA%B4%80)
 2. [인스파이어드](https://github.com/salmonco/book-study/tree/main/%EC%9D%B8%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%93%9C)
 3. [린 스타트업 바이블](https://github.com/salmonco/book-study/tree/main/%EB%A6%B0%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%20%EB%B0%94%EC%9D%B4%EB%B8%94)
-4. [에디토리얼 씽킹](https://github.com/salmonco/book-study/tree/main/%EC%97%90%EB%94%94%ED%86%A0%EB%A6%AC%EC%96%BC%20%EC%94%BD%ED%82%B9)
-5. [Human Computer Interaction 개론](https://github.com/salmonco/book-study/tree/main/Human%20Computer%20Interaction%20%EA%B0%9C%EB%A1%A0)
-6. [린 스타트업](https://github.com/salmonco/book-study/tree/main/%EB%A6%B0%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85)
-7. [마케팅 불변의 법칙](https://github.com/salmonco/book-study/tree/main/%EB%A7%88%EC%BC%80%ED%8C%85%20%EB%B6%88%EB%B3%80%EC%9D%98%20%EB%B2%95%EC%B9%99)
-8. [진화된 마케팅 그로스 해킹](https://github.com/salmonco/book-study/tree/main/%EC%A7%84%ED%99%94%EB%90%9C%20%EB%A7%88%EC%BC%80%ED%8C%85%20%EA%B7%B8%EB%A1%9C%EC%8A%A4%20%ED%95%B4%ED%82%B9)
-9. [프로덕트 오너](https://github.com/salmonco/book-study/tree/main/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%20%EC%98%A4%EB%84%88)
-10. 함께 자라기
-11. [실리콘밸리의 팀장들](https://github.com/salmonco/book-study/tree/main/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%9D%98%20%ED%8C%80%EC%9E%A5%EB%93%A4)
-12. [피그마 클래스](http://github.com/salmonco/book-study/tree/main/%ED%94%BC%EA%B7%B8%EB%A7%88%20%ED%81%B4%EB%9E%98%EC%8A%A4)
+4. [실리콘밸리의 팀장들](https://github.com/salmonco/book-study/tree/main/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%9D%98%20%ED%8C%80%EC%9E%A5%EB%93%A4)
+5. [피그마 클래스](http://github.com/salmonco/book-study/tree/main/%ED%94%BC%EA%B7%B8%EB%A7%88%20%ED%81%B4%EB%9E%98%EC%8A%A4)
+6. [에디토리얼 씽킹](https://github.com/salmonco/book-study/tree/main/%EC%97%90%EB%94%94%ED%86%A0%EB%A6%AC%EC%96%BC%20%EC%94%BD%ED%82%B9)
+7. [Human Computer Interaction 개론](https://github.com/salmonco/book-study/tree/main/Human%20Computer%20Interaction%20%EA%B0%9C%EB%A1%A0)
+8. 함께 자라기
+9. [린 스타트업](https://github.com/salmonco/book-study/tree/main/%EB%A6%B0%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85)
+10. [마케팅 불변의 법칙](https://github.com/salmonco/book-study/tree/main/%EB%A7%88%EC%BC%80%ED%8C%85%20%EB%B6%88%EB%B3%80%EC%9D%98%20%EB%B2%95%EC%B9%99)
+11. [진화된 마케팅 그로스 해킹](https://github.com/salmonco/book-study/tree/main/%EC%A7%84%ED%99%94%EB%90%9C%20%EB%A7%88%EC%BC%80%ED%8C%85%20%EA%B7%B8%EB%A1%9C%EC%8A%A4%20%ED%95%B4%ED%82%B9)
+12. [프로덕트 오너](https://github.com/salmonco/book-study/tree/main/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%20%EC%98%A4%EB%84%88)
 
 ### 읽고 싶은 책
 
