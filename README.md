@@ -37,8 +37,6 @@
 
 ### 새로 읽고 있는 책
 
-1. 소프트웨어 장인
-
 ### 한 번 이상 읽은 책
 
 1. [기획자의 습관](https://github.com/salmonco/book-study/tree/main/%EA%B8%B0%ED%9A%8D%EC%9E%90%EC%9D%98%20%EC%8A%B5%EA%B4%80)
@@ -53,6 +51,7 @@
 10. [마케팅 불변의 법칙](https://github.com/salmonco/book-study/tree/main/%EB%A7%88%EC%BC%80%ED%8C%85%20%EB%B6%88%EB%B3%80%EC%9D%98%20%EB%B2%95%EC%B9%99)
 11. [진화된 마케팅 그로스 해킹](https://github.com/salmonco/book-study/tree/main/%EC%A7%84%ED%99%94%EB%90%9C%20%EB%A7%88%EC%BC%80%ED%8C%85%20%EA%B7%B8%EB%A1%9C%EC%8A%A4%20%ED%95%B4%ED%82%B9)
 12. [프로덕트 오너](https://github.com/salmonco/book-study/tree/main/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%20%EC%98%A4%EB%84%88)
+13. 소프트웨어 장인
 
 ### 읽고 싶은 책
 
